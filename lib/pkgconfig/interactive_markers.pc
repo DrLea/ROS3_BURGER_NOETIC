@@ -1,0 +1,8 @@
+prefix=/opt/ros/noetic
+
+Name: interactive_markers
+Description: Description of interactive_markers
+Version: 1.12.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib -linteractive_markers
+Requires: roscpp rosconsole rospy tf2_ros std_msgs visualization_msgs

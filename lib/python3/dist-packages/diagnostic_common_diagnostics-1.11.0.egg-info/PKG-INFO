@@ -1,0 +1,16 @@
+Metadata-Version: 1.2
+Name: diagnostic-common-diagnostics
+Version: 1.11.0
+Summary: diagnostic_common_diagnostics
+Home-page: http://ros.org/wiki/diagnostic_common_diagnostics
+Author: Brice Rebsamen
+Author-email: brice.rebsamen@gmail.com
+Maintainer: Guglielmo Gemignani <guglielmo.gemignani@gmail.com>, Austin Hendrix <namniart@gmail.com>
+License: BSD
+Description: UNKNOWN
+Platform: UNKNOWN
+Requires: genpy
+Requires: numpy
+Requires: rosgraph
+Requires: roslib
+Requires: rospkg

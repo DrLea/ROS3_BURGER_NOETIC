@@ -1,0 +1,8 @@
+prefix=/opt/ros/noetic
+
+Name: variant_topic_tools
+Description: Description of variant_topic_tools
+Version: 0.1.6
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib -lvariant_topic_tools
+Requires: roscpp roslib variant_msgs

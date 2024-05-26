@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: rqt_pr2_dashboard
+Version: 0.4.0
+Summary: rqt_pr2_dashboard is a GUI for debugging and controlling low-level state of the PR2. It shows things like battery status and breaker states, as well as integrating tools like rqt_console and robot_...
+Home-page: http://ros.org/wiki/rqt_pr2_dashboard
+Author: Sammy Pfeiffer
+Author-email: Sammy.Pfeiffer@student.uts.edu.au
+License: BSD
+Description: rqt_pr2_dashboard is a GUI for debugging and controlling low-level state of the PR2. It shows things like battery status and breaker states, as well as integrating tools like rqt_console and robot_monitor.
+Platform: UNKNOWN

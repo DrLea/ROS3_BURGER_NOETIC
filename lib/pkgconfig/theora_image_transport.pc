@@ -1,0 +1,8 @@
+prefix=/opt/ros/noetic
+
+Name: theora_image_transport
+Description: Description of theora_image_transport
+Version: 1.14.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib -ltheora_image_transport
+Requires: message_runtime std_msgs

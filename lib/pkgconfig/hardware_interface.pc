@@ -1,0 +1,8 @@
+prefix=/opt/ros/noetic
+
+Name: hardware_interface
+Description: Description of hardware_interface
+Version: 0.20.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: roscpp

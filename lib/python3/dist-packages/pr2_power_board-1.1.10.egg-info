@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: pr2_power_board
+Version: 1.1.10
+Summary: This provides a ROS node for the PR2 Power Board.
+Home-page: http://www.ros.org/wiki/pr2_power_board
+Author: ROS Orphaned Package Maintainers
+Author-email: ros-orphaned-packages@googlegroups.com
+License: BSD
+Description: UNKNOWN
+Platform: UNKNOWN

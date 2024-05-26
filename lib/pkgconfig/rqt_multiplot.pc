@@ -1,0 +1,8 @@
+prefix=/opt/ros/noetic
+
+Name: rqt_multiplot
+Description: Description of rqt_multiplot
+Version: 0.0.12
+Cflags: 
+Libs: -L${prefix}/lib -lrqt_multiplot
+Requires: rosbag roscpp rqt_gui rqt_gui_cpp variant_topic_tools

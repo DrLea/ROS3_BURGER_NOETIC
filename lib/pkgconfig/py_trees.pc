@@ -1,0 +1,8 @@
+prefix=/opt/ros/noetic
+
+Name: py_trees
+Description: Description of py_trees
+Version: 0.7.6
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

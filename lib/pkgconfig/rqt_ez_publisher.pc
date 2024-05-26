@@ -1,0 +1,8 @@
+prefix=/opt/ros/noetic
+
+Name: rqt_ez_publisher
+Description: Description of rqt_ez_publisher
+Version: 0.6.1
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

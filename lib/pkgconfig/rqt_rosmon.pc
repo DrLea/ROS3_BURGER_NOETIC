@@ -1,0 +1,8 @@
+prefix=/opt/ros/noetic
+
+Name: rqt_rosmon
+Description: Description of rqt_rosmon
+Version: 2.5.1
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

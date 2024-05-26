@@ -1,0 +1,8 @@
+prefix=/opt/ros/noetic
+
+Name: rviz_plugin_tutorials
+Description: Description of rviz_plugin_tutorials
+Version: 0.11.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

@@ -1,0 +1,8 @@
+prefix=/opt/ros/noetic
+
+Name: rqt_graph
+Description: Description of rqt_graph
+Version: 0.4.14
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

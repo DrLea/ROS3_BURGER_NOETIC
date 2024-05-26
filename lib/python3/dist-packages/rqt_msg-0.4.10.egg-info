@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: rqt_msg
+Version: 0.4.10
+Summary: A Python GUI plugin for introspecting available ROS message types. Note that the msgs available through this plugin is the ones that are stored on your machine, not on the ROS core your rqt instanc...
+Home-page: http://wiki.ros.org/rqt_msg
+Author: Michael Carroll
+Author-email: michael@openrobotics.org
+License: BSD
+Description: A Python GUI plugin for introspecting available ROS message types. Note that the msgs available through this plugin is the ones that are stored on your machine, not on the ROS core your rqt instance connects to.
+Platform: UNKNOWN

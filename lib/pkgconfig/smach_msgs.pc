@@ -1,0 +1,8 @@
+prefix=/opt/ros/noetic
+
+Name: smach_msgs
+Description: Description of smach_msgs
+Version: 2.5.2
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: message_runtime

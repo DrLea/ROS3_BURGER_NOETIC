@@ -1,0 +1,8 @@
+prefix=/opt/ros/noetic
+
+Name: rqt_top
+Description: Description of rqt_top
+Version: 0.4.10
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

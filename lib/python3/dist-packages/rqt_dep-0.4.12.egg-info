@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: rqt_dep
+Version: 0.4.12
+Summary: rqt_dep provides a GUI plugin for visualizing the ROS dependency graph.
+Home-page: http://wiki.ros.org/rqt_dep
+Author: Ivan Paunovic
+Author-email: ivanpauno@ekumenlabs.com
+License: BSD
+Description: UNKNOWN
+Platform: UNKNOWN

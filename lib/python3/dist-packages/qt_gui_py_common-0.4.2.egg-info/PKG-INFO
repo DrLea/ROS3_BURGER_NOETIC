@@ -1,0 +1,11 @@
+Metadata-Version: 1.2
+Name: qt-gui-py-common
+Version: 0.4.2
+Summary: qt_gui_py_common provides common functionality for GUI plugins written in Python.
+Home-page: http://ros.org/wiki/qt_gui_py_common
+Author: Dorian Scholz
+Maintainer: Dorian Scholz
+Maintainer-email: scholz@sim.tu-darmstadt.de
+License: BSD
+Description: UNKNOWN
+Platform: UNKNOWN

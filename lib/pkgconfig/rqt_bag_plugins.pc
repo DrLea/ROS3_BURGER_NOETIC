@@ -1,0 +1,8 @@
+prefix=/opt/ros/noetic
+
+Name: rqt_bag_plugins
+Description: Description of rqt_bag_plugins
+Version: 0.5.1
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

@@ -1,0 +1,12 @@
+Metadata-Version: 1.2
+Name: rqt-ez-publisher
+Version: 0.6.1
+Summary: The rqt_ez_publisher package
+Home-page: http://wiki.ros.org/rqt_ez_publisher
+Author: Takashi Ogura
+Author-email: t.ogura@gmail.com
+Maintainer: Takashi Ogura
+Maintainer-email: t.ogura@gmail.com
+License: BSD
+Description: UNKNOWN
+Platform: UNKNOWN

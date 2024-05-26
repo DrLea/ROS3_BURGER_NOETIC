@@ -1,0 +1,2 @@
+set(hri_msgs_MESSAGE_FILES "msg/AudioFeatures.msg;msg/BodyPosture.msg;msg/EngagementLevel.msg;msg/Expression.msg;msg/FacialActionUnits.msg;msg/FacialLandmarks.msg;msg/Gaze.msg;msg/Gesture.msg;msg/Group.msg;msg/IdsList.msg;msg/IdsMatch.msg;msg/LiveSpeech.msg;msg/NormalizedPointOfInterest2D.msg;msg/NormalizedPointOfInterest2DStamped.msg;msg/NormalizedRegionOfInterest2D.msg;msg/Skeleton2D.msg;msg/SoftBiometrics.msg")
+set(hri_msgs_SERVICE_FILES "")

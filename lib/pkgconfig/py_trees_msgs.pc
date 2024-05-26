@@ -1,0 +1,8 @@
+prefix=/opt/ros/noetic
+
+Name: py_trees_msgs
+Description: Description of py_trees_msgs
+Version: 0.3.7
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: message_runtime std_msgs uuid_msgs

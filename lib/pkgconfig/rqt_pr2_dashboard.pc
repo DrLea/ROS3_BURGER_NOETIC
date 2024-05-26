@@ -1,0 +1,8 @@
+prefix=/opt/ros/noetic
+
+Name: rqt_pr2_dashboard
+Description: Description of rqt_pr2_dashboard
+Version: 0.4.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

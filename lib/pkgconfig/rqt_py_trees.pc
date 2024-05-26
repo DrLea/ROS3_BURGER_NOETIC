@@ -1,0 +1,8 @@
+prefix=/opt/ros/noetic
+
+Name: rqt_py_trees
+Description: Description of rqt_py_trees
+Version: 0.4.1
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

@@ -1,0 +1,8 @@
+prefix=/opt/ros/noetic
+
+Name: rqt_gui
+Description: Description of rqt_gui
+Version: 0.5.3
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

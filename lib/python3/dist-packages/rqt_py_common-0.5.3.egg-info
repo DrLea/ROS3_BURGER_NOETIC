@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: rqt_py_common
+Version: 0.5.3
+Summary: rqt_py_common provides common functionality for rqt plugins written in Python. Despite no plugin is provided, this package is part of the rqt_common_plugins repository to keep refactoring generic f...
+Home-page: http://ros.org/wiki/rqt_py_common
+Author: Dorian Scholz <scholz@sim.tu-darmstadt.de>, Michael Jeronimo <michael.jeronimo@openrobotics.org>
+Author-email: UNKNOWN
+License: BSD
+Description: rqt_py_common provides common functionality for rqt plugins written in Python. Despite no plugin is provided, this package is part of the rqt_common_plugins repository to keep refactoring generic functionality from these common plugins into this package as easy as possible. Functionality included in this package should cover generic ROS concepts and should not introduce any special dependencies beside "ros_base".
+Platform: UNKNOWN

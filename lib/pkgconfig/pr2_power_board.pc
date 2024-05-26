@@ -1,0 +1,8 @@
+prefix=/opt/ros/noetic
+
+Name: pr2_power_board
+Description: Description of pr2_power_board
+Version: 1.1.10
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: message_runtime roscpp diagnostic_updater diagnostic_msgs pr2_msgs

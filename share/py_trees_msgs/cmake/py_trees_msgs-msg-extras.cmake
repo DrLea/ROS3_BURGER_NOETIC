@@ -1,0 +1,2 @@
+set(py_trees_msgs_MESSAGE_FILES "msg/DockAction.msg;msg/DockActionGoal.msg;msg/DockActionResult.msg;msg/DockActionFeedback.msg;msg/DockGoal.msg;msg/DockResult.msg;msg/DockFeedback.msg;msg/RotateAction.msg;msg/RotateActionGoal.msg;msg/RotateActionResult.msg;msg/RotateActionFeedback.msg;msg/RotateGoal.msg;msg/RotateResult.msg;msg/RotateFeedback.msg;msg/Behaviour.msg;msg/BehaviourTree.msg")
+set(py_trees_msgs_SERVICE_FILES "srv/GetBlackboardVariables.srv;srv/OpenBlackboardWatcher.srv;srv/CloseBlackboardWatcher.srv")

@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: rqt_launch
+Version: 0.4.9
+Summary: This rqt plugin ROS package provides easy view of .launch files. User can also start and end node by node that are defined in those files.
+Home-page: http://wiki.ros.org/rqt_launch
+Author: Isaac I.Y. Saito <iisaito@kinugarage.com>, Ryan Sinnet <ryan@rwsinnet.com>
+Author-email: UNKNOWN
+License: BSD
+Description: UNKNOWN
+Platform: UNKNOWN

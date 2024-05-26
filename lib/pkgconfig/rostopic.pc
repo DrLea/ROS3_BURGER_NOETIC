@@ -1,0 +1,8 @@
+prefix=/opt/ros/noetic
+
+Name: rostopic
+Description: Description of rostopic
+Version: 1.16.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

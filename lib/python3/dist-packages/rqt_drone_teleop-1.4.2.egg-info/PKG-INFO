@@ -1,0 +1,11 @@
+Metadata-Version: 1.2
+Name: rqt-drone-teleop
+Version: 1.4.2
+Summary: A common drone teleop interface for all drone exercises in the JdeRobot Robotics Academy
+Home-page: UNKNOWN
+Author: Nikhil Khedekar <nikhilvkhedekar@gmail.com>, Pedro Arias
+Maintainer: Pedro Arias
+Maintainer-email: pedroariasperez96@gmail.com
+License: MIT
+Description: UNKNOWN
+Platform: UNKNOWN

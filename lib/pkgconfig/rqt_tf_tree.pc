@@ -1,0 +1,8 @@
+prefix=/opt/ros/noetic
+
+Name: rqt_tf_tree
+Description: Description of rqt_tf_tree
+Version: 0.6.4
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

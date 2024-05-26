@@ -1,0 +1,8 @@
+prefix=/opt/ros/noetic
+
+Name: webkit_dependency
+Description: Description of webkit_dependency
+Version: 1.1.2
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

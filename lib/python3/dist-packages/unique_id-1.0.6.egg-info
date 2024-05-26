@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: unique_id
+Version: 1.0.6
+Summary: ROS Python and C++ interfaces for universally unique identifiers.
+Home-page: http://ros.org/wiki/unique_id
+Author: Jack O'Quin
+Author-email: jack.oquin@gmail.com
+License: BSD
+Description: UNKNOWN
+Platform: UNKNOWN

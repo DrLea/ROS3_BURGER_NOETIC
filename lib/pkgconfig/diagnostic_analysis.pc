@@ -1,0 +1,8 @@
+prefix=/opt/ros/noetic
+
+Name: diagnostic_analysis
+Description: Description of diagnostic_analysis
+Version: 1.11.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: diagnostic_msgs rosbag roslib

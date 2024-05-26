@@ -1,0 +1,8 @@
+prefix=/opt/ros/noetic
+
+Name: smach
+Description: Description of smach
+Version: 2.5.2
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

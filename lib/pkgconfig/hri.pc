@@ -1,0 +1,8 @@
+prefix=/opt/ros/noetic
+
+Name: hri
+Description: Description of hri
+Version: 0.6.4
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib -lhri
+Requires: geometry_msgs hri_msgs rosconsole roscpp std_msgs tf2 cv_bridge

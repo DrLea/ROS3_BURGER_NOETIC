@@ -1,0 +1,8 @@
+prefix=/opt/ros/noetic
+
+Name: rqt_py_common
+Description: Description of rqt_py_common
+Version: 0.5.3
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

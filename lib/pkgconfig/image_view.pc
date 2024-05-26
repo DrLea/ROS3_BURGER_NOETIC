@@ -1,0 +1,8 @@
+prefix=/opt/ros/noetic
+
+Name: image_view
+Description: Description of image_view
+Version: 1.17.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: dynamic_reconfigure

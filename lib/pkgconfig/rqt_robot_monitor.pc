@@ -1,0 +1,8 @@
+prefix=/opt/ros/noetic
+
+Name: rqt_robot_monitor
+Description: Description of rqt_robot_monitor
+Version: 0.5.15
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

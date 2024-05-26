@@ -1,0 +1,8 @@
+prefix=/opt/ros/noetic
+
+Name: rosfmt
+Description: Description of rosfmt
+Version: 8.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib -lrosfmt9
+Requires: roscpp rosconsole

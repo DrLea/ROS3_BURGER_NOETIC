@@ -1,0 +1,8 @@
+prefix=/opt/ros/noetic
+
+Name: media_export
+Description: Description of media_export
+Version: 0.3.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

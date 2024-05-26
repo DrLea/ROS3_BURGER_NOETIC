@@ -1,0 +1,11 @@
+Metadata-Version: 1.2
+Name: qt-gui
+Version: 0.4.2
+Summary: qt_gui provides the infrastructure for an integrated graphical user interface based on Qt. It is extensible with Python- and C++-based plugins (implemented in separate packages) which can contribut...
+Home-page: http://ros.org/wiki/qt_gui
+Author: Dirk Thomas
+Maintainer: Dirk Thomas
+Maintainer-email: dthomas@osrfoundation.org
+License: BSD
+Description: qt_gui provides the infrastructure for an integrated graphical user interface based on Qt. It is extensible with Python- and C++-based plugins (implemented in separate packages) which can contribute arbitrary widgets. It requires either PyQt or PySide bindings.
+Platform: UNKNOWN
