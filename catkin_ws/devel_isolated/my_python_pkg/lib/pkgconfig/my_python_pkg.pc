@@ -1,0 +1,8 @@
+prefix=/home/daler/catkin_ws/devel_isolated/my_python_pkg
+
+Name: my_python_pkg
+Description: Description of my_python_pkg
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

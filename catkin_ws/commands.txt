@@ -1,0 +1,12 @@
+roscore
+ssh ubuntu@192.168.158.15
+export TURTLEBOT3_MODEL=burger
+roslaunch turtlebot3_bringup turtlebot3_robot.launch
+roslaunch turtlebot3_slam turtlebot3_slam.launch
+roslaunch turtlebot3_teleop turtlebot3_teleop_key.launch
+rosrun map_server map_saver -f ~/map
+roslaunch turtlebot3_navigation turtlebot3_navigation.launch map_file:=$HOME/map.yaml
+cd catkin_ws/src
+roslaunch follow_waypoints follow_waypoints.launch
+rostopic pub /path_ready std_msgs/Empty -1
+rostopic pub /path_reset std_msgs/Empty -1

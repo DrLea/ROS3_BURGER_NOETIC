@@ -1,0 +1,2 @@
+follow_waypoints:my_python_pkg
+-DCATKIN_DEVEL_PREFIX=/home/daler/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/daler/catkin_ws/install -G Unix Makefiles

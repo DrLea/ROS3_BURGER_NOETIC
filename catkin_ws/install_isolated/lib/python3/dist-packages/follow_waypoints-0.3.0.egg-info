@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: follow_waypoints
+Version: 0.3.0
+Summary: The follow_waypoints node will listen for waypoints given as poses and when instructed will follow them one by one by publishing goals to move_base.
+Home-page: http://wiki.ros.org/follow_waypoints
+Author: Daniel Snider
+Author-email: danielsnider12@gmail.com
+License: Unlicense
+Description: UNKNOWN
+Platform: UNKNOWN

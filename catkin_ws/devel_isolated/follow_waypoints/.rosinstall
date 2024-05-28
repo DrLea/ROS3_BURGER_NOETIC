@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/daler/catkin_ws/devel_isolated/follow_waypoints/setup.sh
